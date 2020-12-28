@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 브릿지허브 통합 매뉴얼 페이지
 
 You can use the [editor on GitHub](https://github.com/KyuminAhn/BritzyManual/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
